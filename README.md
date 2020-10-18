@@ -1,4 +1,4 @@
-<img width="640" align="middle" alt="Logo" src="https://user-images.githubusercontent.com/58509733/96372546-9e4bbf00-1167-11eb-8a2f-f64033df20c9.png">
+<img align="middle" width="640" alt="Logo" src="https://user-images.githubusercontent.com/58509733/96372546-9e4bbf00-1167-11eb-8a2f-f64033df20c9.png">
 
 # Purpose of Open BPMN OCL
 *	OCL stands for “Object Contraint Language”.
