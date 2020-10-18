@@ -1,11 +1,11 @@
-#Purpose of Open BPMN OCL:
+# Purpose of Open BPMN OCL:
 *	OCL stands for “Object Contraint Language”.
 *	OCL is intended to define constraints.
 *	Open BPMN OCL describes constraints for OCL.
 *	Open BPMN OCL is FOSS (Free Open Source).
 *	Open BPMN OCL has been derived from Anacleto Correia publication “Elements of Style of BPMN Language” - Technical Report - CITI/Faculdade de Ciências e Tecnologia/Universidade Nova de Lisboa, Lisboa.
 
-#License Agreement:
+# License Agreement:
 *	We do not speak legalese. Therefore here is the license agreement in our words:
 *	“Open BPMN OCL” names the project and the OCL code the project creates.
 *	The project and OCL code is non-commercial.
