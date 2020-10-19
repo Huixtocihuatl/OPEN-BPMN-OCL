@@ -5,7 +5,7 @@
 *	OCL is intended to define constraints.
 *	Open BPMN OCL describes constraints for BPMN.
 *	Open BPMN OCL is FOSS (Free Open Source).
-*	Open BPMN OCL has been derived from Anacleto Correia publication “Elements of Style of BPMN Language” - Technical Report - CITI/Faculdade de Ciências e Tecnologia/Universidade Nova de Lisboa, Lisboa (https://arxiv.org/ftp/arxiv/papers/1502/1502.06297.pdf).
+*	Open BPMN OCL has been derived from the publication of Anacleto Correia "Elements of Style of BPMN Language" - Technical Report - CITI/Faculdade de Ciências e Tecnologia/Universidade Nova de Lisboa, Lisboa (https://arxiv.org/ftp/arxiv/papers/1502/1502.06297.pdf).
 
 # License Agreement
 We do not speak legalese. Therefore here is the license agreement in our words:
